@@ -10,3 +10,7 @@
 	path = pixxel-filter-shortcuts
 	url = https://github.com/SteffenBlake/pixxel-filter-shortcuts.git
 	branch = main
+[submodule "pixxel-filter"]
+	path = pixxel-filter
+	url = https://github.com/SteffenBlake/pixxel-filter.git
+	branch = main
